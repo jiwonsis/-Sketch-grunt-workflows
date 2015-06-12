@@ -33,7 +33,8 @@ Speaker's List
 
 Artist Info
 -------------
-
+  article.artist*>h3>{Title}^p>a[href="#"]>img.speaker[src="images/speakers/$#_tn.jpg" alt="Photo fo $#"]^p>lorem|c
+  
   <article class="artist">
     <h3>Art in Full Bloom<span class="small"> with <a href="#">Lorenzo Garcia</a></span></h3>
     <p><a href="#"><img class="speaker" src="images/speakers/Lorenzo_Garcia_tn.jpg" alt="Photo of Lorenzo Garcia"></a></p>
